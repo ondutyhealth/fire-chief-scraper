@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+celery
+redis
+requests
+beautifulsoup4
+playwright
+openai

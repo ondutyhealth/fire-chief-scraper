@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Phoenix",
+    "state": "Arizona"
+  },
+  {
+    "city": "Tucson",
+    "state": "Arizona"
+  },
+  {
+    "city": "Mesa",
+    "state": "Arizona"
+  },
+  {
+    "city": "Albuquerque",
+    "state": "New Mexico"
+  },
+  {
+    "city": "Portland",
+    "state": "Oregon"
+  },
+  {
+    "city": "Salem",
+    "state": "Oregon"
+  },
+  {
+    "city": "Eugene",
+    "state": "Oregon"
+  },
+  {
+    "city": "Seattle",
+    "state": "Washington"
+  },
+  {
+    "city": "Spokane",
+    "state": "Washington"
+  },
+  {
+    "city": "Tacoma",
+    "state": "Washington"
+  }
+]
